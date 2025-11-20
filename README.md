@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Huzaifa Atiq! 👋
 
-![Banner Image](https://media.istockphoto.com/id/1413922045/vector/programming-at-home.webp?s=2048x2048&w=is&k=20&c=uNbiLU6tIqZxRlAP78GE6LC8VIj2Uf1S-GtEreUsE9M=)
+![Banner Image](imagelink)
 
 ## About Me 🚀
 
