@@ -9,13 +9,15 @@ I'm a passionate student and tech enthusiast who loves exploring new concepts. L
 - 🌱 **Currently learning:** Improving my Python and C skills, exploring React Native  
 - 🌍 **Languages:**  
   - **Programming:** Python, JavaScript, C, C++, React, Next.js, HTML/CSS  
-  - **Human:** English, Urdu  
+  - **Human:** English, Urdu
+-💡 **Fun fact:** I also enjoy creating 3D graphics and experimenting with visual designs.
 
 ## My Skills 🧠
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,c,blender,vscode)](https://skillicons.dev)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 
 ## Featured Projects 💻
 
