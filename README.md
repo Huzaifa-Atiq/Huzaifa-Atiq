@@ -4,20 +4,18 @@
 
 ## About Me 🚀
 
-I'm a passionate student and tech enthusiast who loves exploring new concepts. Learning something new in code always keeps me motivated and drives me to tackle challenging problems.
+I'm a passionate student and tech enthusiast who loves exploring new concepts and building projects that challenge me to learn. I enjoy solving problems, experimenting with new technologies, and finding ways to turn ideas into functional projects. 
+Alongside coding, I explore 3D graphics and visual design, which helps me blend logic with creativity in my projects.
 
 - 🌱 **Currently learning:** Improving my Python and C skills, exploring React Native  
-- 🌍 **Languages:**  
-  - **Programming:** Python, JavaScript, C, C++, React, Next.js, HTML/CSS  
-  - **Human:** English, Urdu
+- 🌍 **Languages / Tools:** English, Urdu
 
 ## My Skills 🧠
 
+I have experience with a range of programming languages, frameworks, and tools that I use to build projects and experiment with new ideas:
+
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,c,blender,vscode)](https://skillicons.dev)
 
-💡 **Fun fact:** I also enjoy creating 3D graphics and experimenting with visual designs.
+## Projects / Interests 💻
 
-
-
-
-
+I enjoy starting with small projects, learning from each one, and gradually scaling them up into more complex and polished applications. My interests span web development, 3D graphics, AI experiments, and interactive apps. As I continue learning, I aim to share more of my work here on GitHub.
