@@ -5,13 +5,13 @@ Alongside coding, I explore 3D graphics and visual design, which helps me blend 
 
 - 🌱 **Currently learning:** Improving my Python and C skills, exploring React Native  
 - 🌍 **Languages / Tools:** English, Urdu
-<br>
+  
 ## My Skills 🧠
 
 I have experience with a range of programming languages, frameworks, and tools that I use to build projects and experiment with new ideas:
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,c,blender,vscode)](https://skillicons.dev)
-<br>
+
 ## Projects / Interests 💻
 
 I enjoy starting with small projects, learning from each one, and gradually scaling them up into more complex and polished applications. My interests span web development, 3D graphics, AI experiments, and interactive apps. As I continue learning, I aim to share more of my work here on GitHub.
