@@ -1,5 +1,5 @@
 <p align="center">
-  <b style="font-size:36px;">Hi there, I'm Muhammad Huzaifa Atiq! 👋</b>
+  <b style="font-size:90px;">Hi there, I'm Muhammad Huzaifa Atiq! 👋</b>
 </p>
 <br>
 <br>
