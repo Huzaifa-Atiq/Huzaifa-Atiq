@@ -4,8 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate student with experience in **Python, JavaScript, React, Next.js, C++, and HTML/CSS**. 
-I'm a tech enthusiast who loves exploring new concepts, and learning something new in code always keeps me motivated.
+I'm a passionate student and tech enthusiast who loves exploring new concepts. Learning something new in code always keeps me motivated and drives me to tackle challenging problems.
 
 - 🌱 **Currently learning:** Improving my Python and C skills, exploring React Native  
 - 🌍 **Languages:**  
