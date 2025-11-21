@@ -1,4 +1,7 @@
-## **Hi there, I'm Muhammad Huzaifa Atiq!** 👋
+<p align="center">
+  <b style="font-size:36px;">Hi there, I'm Muhammad Huzaifa Atiq! 👋</b>
+</p>
+<br>
 <br>
 
 ## About Me 🚀
