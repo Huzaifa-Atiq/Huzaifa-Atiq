@@ -11,7 +11,6 @@ I'm a tech enthusiast who loves exploring new concepts, and learning something n
 - 🌍 **Languages:**  
   - **Programming:** Python, JavaScript, C, C++, React, Next.js, HTML/CSS  
   - **Human:** English, Urdu  
-- 📫 **How to reach me:**
 
 ## My Skills 🧠
 
