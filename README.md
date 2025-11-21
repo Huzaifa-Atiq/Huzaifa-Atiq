@@ -1,5 +1,4 @@
-# Hi there, I'm Muhammad Huzaifa Atiq! 👋
-
+# **Hi there, I'm Muhammad Huzaifa Atiq!** 👋
 
 ## About Me 🚀
 
