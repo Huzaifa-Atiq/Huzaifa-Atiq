@@ -15,7 +15,8 @@ I'm a tech enthusiast who loves exploring new concepts, and learning something n
 
 ## My Skills 🧠
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,c,cplusplus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,c,blender,vscode)](https://skillicons.dev)
+
 
 
 ## Featured Projects 💻
