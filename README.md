@@ -1,10 +1,4 @@
-<p align="center">
-  <b style="font-size:90px;">Hi there, I'm Muhammad Huzaifa Atiq! 👋</b>
-</p>
-<br>
-<br>
-
-## About Me 🚀
+# Hi there, I'm Muhammad Huzaifa Atiq! 👋
 
 I'm a passionate student and tech enthusiast who loves exploring new concepts and building projects that challenge me to learn. I enjoy solving problems, experimenting with new technologies, and finding ways to turn ideas into functional projects. 
 Alongside coding, I explore 3D graphics and visual design, which helps me blend logic with creativity in my projects.
