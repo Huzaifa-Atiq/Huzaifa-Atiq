@@ -4,24 +4,19 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate student with experience in **Python, JavaScript, React, Next.js, C++, and HTML/CSS**. 
+I'm a tech enthusiast who loves exploring new concepts, and learning something new in code always keeps me motivated.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 **Currently learning:** Improving my Python and C skills, exploring React Native  
+- 🌍 **Languages:**  
+  - **Programming:** Python, JavaScript, C, C++, React, Next.js, HTML/CSS  
+  - **Human:** English, Urdu  
+- 📫 **How to reach me:**
 
 ## My Skills 🧠
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,c,cplusplus)](https://skillicons.dev)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
