@@ -1,6 +1,5 @@
 # **Hi there, I'm Muhammad Huzaifa Atiq!** 👋
 <br>
-<br>
 
 ## About Me 🚀
 
