@@ -17,7 +17,7 @@ I'm a passionate student and tech enthusiast who loves exploring new concepts. L
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,c,blender,vscode)](https://skillicons.dev)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Atiq&stats_format=bytes)
 
 ## Featured Projects 💻
 
