@@ -1,7 +1,6 @@
 # **Hi there, I'm Muhammad Huzaifa Atiq!** 👋
-
-
-
+<br>
+<br>
 ## About Me 🚀
 
 I'm a passionate student and tech enthusiast who loves exploring new concepts and building projects that challenge me to learn. I enjoy solving problems, experimenting with new technologies, and finding ways to turn ideas into functional projects. 
