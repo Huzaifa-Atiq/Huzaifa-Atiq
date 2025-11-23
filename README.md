@@ -4,7 +4,7 @@ I'm a passionate student and tech enthusiast who loves exploring new concepts an
 Alongside coding, I explore 3D graphics and visual design, which helps me blend logic with creativity in my projects.
 
 - 🌱 **Currently learning:** Improving my Python and C skills, exploring React Native  
-- 🌍 **Languages / Tools:** English, Urdu
+- 🌍 **Languages:** English, Urdu
   
 ## My Skills 🧠
 
