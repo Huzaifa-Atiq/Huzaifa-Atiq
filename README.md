@@ -10,7 +10,7 @@ Alongside coding, I explore 3D graphics and visual design, which helps me blend 
 
 I have experience with a range of programming languages, frameworks, and tools that I use to build projects and experiment with new ideas:
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,cpp,blender,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,cpp,blender,vscode,git,github)](https://skillicons.dev)
 
 ## Projects / Interests 💻
 
